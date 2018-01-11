@@ -1,4 +1,5 @@
-Investment Portfolio:
+Investment Portfolio
+==========================================================================
 
 This java application was developed for an introductory java course at the Univrsity of Guelph.
 
