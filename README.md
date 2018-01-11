@@ -1,4 +1,4 @@
-#Investment Portfolio
+Investment Portfolio:
 
 This java application was developed for an introductory java course at the Univrsity of Guelph.
 
@@ -36,14 +36,12 @@ stock,GOOG,Alphabet Inc.,5,1063.29,5336.43
 mutualfund,CIG677,CI Signature Select,5,28.57,142.85
 mutualfund,CIGYX,AB concentrated international growth portfolio,3,11.88,35.64
 
-============================
 INITIAL INTERFACE TEST PLAN:
 ============================
 - Does the initial welcome screen clearly define how to use the program
 - Does the commands menu switch interfaces properly
 - Does the program quit upon clicking the quit button
 
-========================
 BUY INTERFACE TEST PLAN:
 ========================
 - Try to buy an investment with no fields filled in
@@ -54,7 +52,6 @@ BUY INTERFACE TEST PLAN:
 - See if the reset button clears all the text fields
 - See if you can buy a mutual fund and stock with the same investment symbols
 
-=========================
 SELL INTERFACE TEST PLAN:
 =========================
 - Try to sell an investment without any fields filled in
@@ -66,7 +63,6 @@ SELL INTERFACE TEST PLAN:
 - Try editing the messages area in the sell interface
 - See if the format of the messages area is conscise and clear
 
-===========================
 UPDATE INTERFACE TEST PLAN:
 ===========================
 - Does the prev button grey out when on the lowest end of the investments list
@@ -76,7 +72,6 @@ UPDATE INTERFACE TEST PLAN:
 - The messages area should be non-editable and view only
 - Does the symbol, ex. HBC, display the correct parallel name, ex. Hudson's Bay Company?
 
-=============================
 GET GAIN INTERFACE TEST PLAN:
 =============================
 - Is the gain calculated properly. It should be the sum of all individual gains
@@ -84,7 +79,6 @@ GET GAIN INTERFACE TEST PLAN:
 - Do the investments display with their symbol, associated name, and positive/negative gain
 - Check if the total gain field is greyed out
 
-===========================
 SEARCH INTERFACE TEST PLAN:
 ===========================
 - Try to search for all investments with no fields filled in. All investments should display
@@ -114,7 +108,6 @@ SEARCH INTERFACE TEST PLAN:
 :Search by a combination of the above
 - Check to see if any combination of the above delivers expected results
 
-=============================
 QUIT FUNCTIONALITY TEST PLAN:
 =============================
 - Try to quit the program from all possible interfaces
