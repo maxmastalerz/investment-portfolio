@@ -1,7 +1,7 @@
 Investment Portfolio
 ==========================================================================
 
-This java application was developed for an introductory java course at the Univrsity of Guelph.
+This java application was developed for an introductory java course at the University of Guelph.
 
 Project purpose: A tool that can keep track of mutual fund & stock investments in a GUI format
 
